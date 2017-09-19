@@ -12,9 +12,7 @@ h1{
   font-weight: bold;
   color: blue;
 }
-/*
-  b{font-family:Helvetica;color:blue;}
-*/
+/*Header 2*/
   h2{font-family:Helvetica;font-size:32px;
     font-weight:bold;color:white}
     .Brushes{background-color: mediumspringgreen;}
